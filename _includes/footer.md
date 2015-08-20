@@ -1,5 +1,5 @@
 
 &copy;Shengbin Meng
 &mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
+Theme by [Tim O'Brien](http://t413.com/).
 
