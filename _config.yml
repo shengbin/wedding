@@ -1,29 +1,21 @@
----
-
-port: 4000
-host: 0.0.0.0
-safe: false
+# site serving configuration
+exclude: [CNAME, README.md, .gitignore, LICENSE.txt]
+permalink: /:title
 
 
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
-highlighter: pygments
-
-
-### content configuration ###
-title:       "孟胜彬+王翠翠"
-keywords:    "婚礼 孟胜彬 王翠翠"
+# content configuration
+title: "孟胜彬+王翠翠"
 description: "胜彬和翠翠的婚礼网站"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-30081581-1 ## put YOUR key here to enable tracking! (blank to disable)
+author:
+  name: Shengbin Meng
+  email: shengbinmeng@me.com
+favicon: "img/favicon.ico"
+touch_icon: "img/apple-touch-icon.png"
 
+# put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-30081581-1
 
-### template colors, used site-wide via css ###
+# template colors, used site-wide via css
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
