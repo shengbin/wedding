@@ -1,8 +1,16 @@
 ---
-title: "留言"
+title: "纪念"
 bg: white
 color: black
 ---
+
+#### 2016年10月4日：结婚零一周年纪念日
+
+这是我们俩都参加工作后的第一个国庆长假。我们商量一起回家，看望了双方父母，度过了几天居家生活。从从容容，平平淡淡，才是真。
+
+<br>
+<br>
+<br>
 
 ## 留言
 
@@ -20,5 +28,6 @@ var duoshuoQuery = {short_name:"shengbin-wedding"};
 		(document.getElementsByTagName('head')[0] 
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
-	</script>
+</script>
 <!-- 多说公共JS代码 end -->
+
