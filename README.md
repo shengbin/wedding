@@ -1,4 +1,5 @@
-# Shengbin's Wedding Page
+
+Shengbin's Wedding Page.
 
 Published at: <http://www.shengbin.me/wedding/>.
 
